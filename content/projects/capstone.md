@@ -1,5 +1,5 @@
 +++
-title = "Capstone"
+title = "Computer Engineering Capstone Project"
 +++
 
 # ECE 4440 Embedded System Design
@@ -16,4 +16,4 @@ The car has four 12V DC brushed motors along with four mecanum wheels, and each 
 
 The glove takes in gyroscope data from an MPU6050 sensor placed on the glove on the back of the palm. A Raspberry Pi Pico W on the glove transmits the sensor information wirelessly using the Pico’s built in Bluetooth capabilities to the other Raspberry Pi Pico W on the car. The glove has a small vibration motor that vibrates with different frequencies based on the ultrasonic sensor’s object detection capabilities that is attached to the back of the car. This acts like a haptic feedback system for the user to get an idea regarding the car’s surroundings. The glove also has a hall effect sensor to it and users can use their fingers to trigger the hall effect to go into a different modes: orientation lock and unlock modes. In orientation lock mode, the car will spin turn and in orientation unlock mode, the car will strafe sideways. The glove is powered by a single 9V battery.
 
-[Video](https://youtu.be/93CKXeN9mIw)
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/93CKXeN9mIw?si=ops1eVqAu48SGtPP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>

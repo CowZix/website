@@ -24,12 +24,11 @@ In addition to PiHole DNS filtering and Traefik SSL certification, I also use Wa
 
 <summary>Services Used</summary>
 
-* Hypervisor - [Proxmox](https://www.proxmox.com/en/)
-* VPN - [Tailscale](https://tailscale.com/)
-* DNS - [PiHole](https://pi-hole.net/)
-* Reverse Proxy - [Traefik](https://traefik.io/traefik/)
-* Container Manager - [Portainer](https://www.portainer.io/)
-* SIEM - [Wazuh](https://wazuh.com/)
+* Hypervisor [Proxmox](https://www.proxmox.com/en/)
+* VPN [Tailscale](https://tailscale.com/)
+* DNS [PiHole](https://pi-hole.net/)
+* Reverse Proxy [Traefik](https://traefik.io/traefik/)
+* Container Manager [Portainer](https://www.portainer.io/)
+* SIEM [Wazuh](https://wazuh.com/)
 
 </details>
-

@@ -17,8 +17,8 @@ highlight_code = true
 author = "Ian Le"
 logo = "images/logo.png"
 header_nav = [
-    { name = "~home", url = "/" },
-    { name = "#projects", url = "/projects" },
-    { name = "$hobbies", url = "/hobbies" },
+    { name = "~Home", url = "/" },
+    { name = "#Projects", url = "/projects" },
+    { name = "$Hobbies", url = "/hobbies" },
 #    { name = "?about", url = "/about" },
 ]

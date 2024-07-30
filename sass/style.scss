@@ -1,12 +1,13 @@
 $latte-background: #eff1f5;
 $latte-text: #4c4f69;
 $latte-border: #ccd0da;
-$latte-accent: #04a5e5;
+
 
 $mocha-background: #1e1e2e;
 $mocha-text: #cdd6f4;
 $mocha-border: #6c7086;
-$mocha-accent: #40a02b;
+
+$accent: #d20f39;
 
 :root {
   --font-family: monospace;
@@ -19,12 +20,12 @@ $mocha-accent: #40a02b;
   /* Latte (light mode) colors */
   --background-color-light: #eff1f5;
   --text-color-light: #4c4f69;
-  --link-color-light: #04a5e5;
+  --link-color-light: #d20f39;
 
   /* Mocha (dark mode) colors */
   --background-color-dark: #1e1e2e;
   --text-color-dark: #cdd6f4;
-  --link-color-dark: #40a02b;
+  --link-color-dark: #d20f39;
 }
 
 body {
@@ -54,7 +55,7 @@ hr { margin: 2rem 0; }
 
 p { margin: 1rem 0; }
 
-li { margin: 0.4rem 0; }
+li { margin: 0.4rem 0; list-style: none;}
 
 .w {
   max-width: 640px;
