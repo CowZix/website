@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+        <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        <title>Personal Home Server</title>
+        
+        <meta name="title" content="Personal Home Server">
+        <meta name="author" content="Ian Le">
+        <meta name="description" content="Ian Le&#x27;s Personal Page">
+        <meta name="generator" content="Zola v0.16.1">
+
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://onmyputer.com/hobbies/home-server/">
+        <meta property="og:site_name" content="Onmyputer">
+        <meta property="og:title" content="Personal Home Server">
+        <meta property="og:description" content="Ian Le&#x27;s Personal Page">
+        <meta property="og:image" content="https:&#x2F;&#x2F;onmyputer.com&#x2F;images&#x2F;logo.png">
+
+        
+        
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://onmyputer.com/hobbies/home-server/">
+        <meta property="twitter:title" content="Personal Home Server">
+        <meta property="twitter:description" content="Ian Le&#x27;s Personal Page">
+        <meta property="twitter:image" content="https:&#x2F;&#x2F;onmyputer.com&#x2F;images&#x2F;logo.png">
+        
+        
+        <link rel="canonical" href="https://onmyputer.com/hobbies/home-server/">
+        <link rel="shortcut icon" type="image/x-icon" href="https://onmyputer.com/images/logo.png">
+        <script type="application/ld+json">
+            {
+                "description":"Ian Le's Personal Page",
+                "url":"https://onmyputer.com/hobbies/home-server/",
+                "@type":"WebSite",
+                "headline":"Personal Home Server",
+                "name":"Personal Home Server",
+                "author":{
+                    "@type":"Person",
+                    "name":"Ian Le"
+                },
+                "@context":"https://schema.org"
+            }
+        </script>
+        
+        
+        
+        <link rel="stylesheet" href="https://onmyputer.com/style.css"/>
+        
+    </head>
+    <body theme="auto">
+        <div class="w">
+            <header>
+                
+                <nav>
+                    
+                    <a href="/" >~home</a>
+                    
+                    <a href="/projects" >#projects</a>
+                    
+                    <a href="/hobbies" >$hobbies</a>
+                    
+                </nav>
+                
+                 <!--
+<p><a href="..">..</a>/home-server</p>
+<p class="post-meta"><time datetime=""></time></p>
+<h1>Personal Home Server</h1>
+-->
+            </header>
+            <main class="page-content" aria-label="Content">
+                
+
+
+
+<h1 id="home-server">Home Server</h1>
+<h2 id="hardware-and-virtualization">Hardware and Virtualization</h2>
+<p>I run my home server on a Dell Optiplex courtesy of eBay. My hypervisor of choice is Proxmox.</p>
+<h2 id="docker">Docker</h2>
+<p>One VM is entirely dedicated to Docker containers, which build out a majority of the my server. Portainer is used to easily manage and monitor all off my containers. Additionally I use Watchtower to automatically update containers on a daily basis.</p>
+<h2 id="networking">Networking</h2>
+<p>To access my server seamlessly from any device, I've implemented a Tailscale VPN network. Tailscale serves as a subnet router to my home network. Pi-Hole handles local DNS resolution as well as DNS filtering for a ad-free experience on my local network. Finally, I chose Traefik as a reverse proxy due to it's ease of use within the Docker environment as well as its numerous security benefits. It automatically provisions SSL certificates to each of my subdomains and keeps my network traffic running smoothly.</p>
+<h2 id="security">Security</h2>
+<p>In addition to PiHole DNS filtering and Traefik SSL certification, I also use Wazuh as a SIEM to monitor potential threats to the network. </p>
+<details>
+<summary>Services Used</summary>
+<ul>
+<li>Hypervisor - <a href="https://www.proxmox.com/en/">Proxmox</a></li>
+<li>VPN - <a href="https://tailscale.com/">Tailscale</a></li>
+<li>DNS - <a href="https://pi-hole.net/">PiHole</a></li>
+<li>Reverse Proxy - <a href="https://traefik.io/traefik/">Traefik</a></li>
+<li>Container Manager - <a href="https://www.portainer.io/">Portainer</a></li>
+<li>SIEM - <a href="https://wazuh.com/">Wazuh</a></li>
+</ul>
+</details>
+
+
+            </main>
+            <footer>
+                
+<p class="taxonomies">
+
+</p>
+
+                
+            </footer>
+        </div>
+    </body>
+</html>
+        

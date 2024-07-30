@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+        <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        <title>Capstone</title>
+        
+        <meta name="title" content="Capstone">
+        <meta name="author" content="Ian Le">
+        <meta name="description" content="Ian Le&#x27;s Personal Page">
+        <meta name="generator" content="Zola v0.16.1">
+
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://onmyputer.com/projects/capstone/">
+        <meta property="og:site_name" content="Onmyputer">
+        <meta property="og:title" content="Capstone">
+        <meta property="og:description" content="Ian Le&#x27;s Personal Page">
+        <meta property="og:image" content="https:&#x2F;&#x2F;onmyputer.com&#x2F;images&#x2F;logo.png">
+
+        
+        
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://onmyputer.com/projects/capstone/">
+        <meta property="twitter:title" content="Capstone">
+        <meta property="twitter:description" content="Ian Le&#x27;s Personal Page">
+        <meta property="twitter:image" content="https:&#x2F;&#x2F;onmyputer.com&#x2F;images&#x2F;logo.png">
+        
+        
+        <link rel="canonical" href="https://onmyputer.com/projects/capstone/">
+        <link rel="shortcut icon" type="image/x-icon" href="https://onmyputer.com/images/logo.png">
+        <script type="application/ld+json">
+            {
+                "description":"Ian Le's Personal Page",
+                "url":"https://onmyputer.com/projects/capstone/",
+                "@type":"WebSite",
+                "headline":"Capstone",
+                "name":"Capstone",
+                "author":{
+                    "@type":"Person",
+                    "name":"Ian Le"
+                },
+                "@context":"https://schema.org"
+            }
+        </script>
+        
+        
+        
+        <link rel="stylesheet" href="https://onmyputer.com/style.css"/>
+        
+    </head>
+    <body theme="auto">
+        <div class="w">
+            <header>
+                
+                <nav>
+                    
+                    <a href="/" >~home</a>
+                    
+                    <a href="/projects" >#projects</a>
+                    
+                    <a href="/hobbies" >$hobbies</a>
+                    
+                </nav>
+                
+                 <!--
+<p><a href="..">..</a>/capstone</p>
+<p class="post-meta"><time datetime=""></time></p>
+<h1>Capstone</h1>
+-->
+            </header>
+            <main class="page-content" aria-label="Content">
+                
+
+
+
+<h1 id="ece-4440-embedded-system-design">ECE 4440 Embedded System Design</h1>
+<h2 id="overview">Overview</h2>
+<p>For my UVA Computer Engineering Capstone, me and my group created a gesture controlled robotic vehicle. This takes the classic remote control toy car and elevates the user’s experience by making the controls more intuitive and adding video and haptic feedback from the car. My role within the group was to write code to interface between two RPi Pico W microcontrollers as well as CAD design for enclosing the electronics.</p>
+<h2 id="car-design">Car Design</h2>
+<p>The car has four 12V DC brushed motors along with four mecanum wheels, and each of the motor controllers is driving two of the mecanum wheels through Pico's commands. The car also has an analog camera on it so that the user can drive the car through a monitor with HDMI display. The car is  powered by a 9V battery that powers the control components and a 12V battery that powers the more power hungry motors.</p>
+<h2 id="glove-design">Glove Design</h2>
+<p>The glove takes in gyroscope data from an MPU6050 sensor placed on the glove on the back of the palm. A Raspberry Pi Pico W on the glove transmits the sensor information wirelessly using the Pico’s built in Bluetooth capabilities to the other Raspberry Pi Pico W on the car. The glove has a small vibration motor that vibrates with different frequencies based on the ultrasonic sensor’s object detection capabilities that is attached to the back of the car. This acts like a haptic feedback system for the user to get an idea regarding the car’s surroundings. The glove also has a hall effect sensor to it and users can use their fingers to trigger the hall effect to go into a different modes: orientation lock and unlock modes. In orientation lock mode, the car will spin turn and in orientation unlock mode, the car will strafe sideways. The glove is powered by a single 9V battery.</p>
+<p><a href="https://youtu.be/93CKXeN9mIw">Video</a></p>
+
+
+            </main>
+            <footer>
+                
+<p class="taxonomies">
+
+</p>
+
+                
+            </footer>
+        </div>
+    </body>
+</html>
+        
