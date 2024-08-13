@@ -7,7 +7,8 @@ $mocha-background: #1e1e2e;
 $mocha-text: #cdd6f4;
 $mocha-border: #6c7086;
 
-$accent: #d20f39;
+$accent1: #d20f39;
+$accent2: #40a02b;
 
 :root {
   --font-family: monospace;
@@ -25,7 +26,7 @@ $accent: #d20f39;
   /* Mocha (dark mode) colors */
   --background-color-dark: #1e1e2e;
   --text-color-dark: #cdd6f4;
-  --link-color-dark: #d20f39;
+  --link-color-dark: #40a02b;
 }
 
 body {
