@@ -1,5 +1,5 @@
 +++
-title = Resume
+title = "Resume"
 +++
 # Ian Lê
 Website: onmyputer.com  
