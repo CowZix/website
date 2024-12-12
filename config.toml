@@ -20,6 +20,7 @@ header_nav = [
     { name = "~Home", url = "/" },
     { name = "#Projects", url = "/projects" },
     { name = "$Hobbies", url = "/hobbies" },
+    { name = "+Recipes", url = "/recipes" },
     { name = "!Resume", url = "/resume" },
 #    { name = "?about", url = "/about" },
 ]
