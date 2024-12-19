@@ -21,6 +21,6 @@ header_nav = [
     { name = "#Projects", url = "/projects" },
     { name = "$Hobbies", url = "/hobbies" },
     { name = "+Recipes", url = "/recipes" },
-    { name = "!Resume", url = "/resume" },
+    { name = "!Resume", url = "https://docs.google.com/document/d/1OE5B5dsI5giPm941nzUxtntvDvBqjh9hKe6dCk6vnJs/edit?usp=drive_link" },
 #    { name = "?about", url = "/about" },
 ]
