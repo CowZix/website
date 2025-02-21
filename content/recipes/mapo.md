@@ -12,6 +12,7 @@ One of my favorite all time recpies that I always come back to. Ever since I had
 ## Ingredients
 
 - 1 Block Soft Tofu
+- 4 oz Ground Pork/Shitake Mushrooms
 - 1 Tsp Ground Sichuan Peppercorn
 - 3 Minced Garlic Cloves
 - 1 Tsp of Ginger Paste or Minced Ginger
@@ -31,10 +32,11 @@ One of my favorite all time recpies that I always come back to. Ever since I had
 
 1. Seperate green onions into greens and whites. Mince the whites and them add them to a bowl and slice greens and set aside for garnish.
 2. Cut tofu into bite sized cubes and set aside.
-3. Fry doubanjiang in oil until the oil is stained a beautful red color and very fragrant.
-4. Add garlic, garlic whites, and ginger and fry for about 30 seconds.
-5. Add soy sauce, stock, shaoxin, gochugaru, hot chili powder, and douchi and bring to a simmer. 
-6. Add tofu to pan and let simmer, carefully flipping the tofu every 5 minutes.
-7. Let reduce until the sauce barely starts to thicken. 
-8. Mix equal parts cornstrach and water to form a slurry to further thicken the sauce. Mix the slurry in until the sauce thickens to about the consitency of a watery barbaque sauce. 
-9. Remove from heat and serve garnished with onion greens and sesame oil.
+3. Fry pork or shitake mushrooms until lightly browned.
+4. Fry doubanjiang in oil until the oil is stained a beautful red color and very fragrant.
+5. Add garlic, garlic whites, and ginger and fry for about 30 seconds.
+6. Add soy sauce, stock, shaoxin, gochugaru, hot chili powder, and douchi and bring to a simmer.
+7. Add tofu to pan and let simmer, carefully flipping the tofu every 5 minutes.
+8. Let reduce until the sauce barely starts to thicken. 
+9. Mix equal parts cornstrach and water to form a slurry to further thicken the sauce. Mix the slurry in until the sauce thickens to about the consitency of a watery barbaque sauce. 
+10. Remove from heat and serve garnished with onion greens and sesame oil.
