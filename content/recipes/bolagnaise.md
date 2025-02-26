@@ -1,14 +1,14 @@
 +++
-title = "Rogan Josh"
+title = "Bolognese"
 +++
 
 # Bolognese
 
-My mom used this recipe for Christmas dinner and I thought it was great!
+My mom used this recipe for Christmas dinner and I thought it was great! 
 
 [Link to original recipe](https://anitalianinmykitchen.com/bolognese-sauce/)
 
-**Prep time**: 5 mins **Cook time**: 3-4 hours
+**Prep time**: 5 mins **Cook time**: 2-3 hours
 ## Ingredients
 
 - 2 Tbs Olive Oil
@@ -30,5 +30,5 @@ My mom used this recipe for Christmas dinner and I thought it was great!
 3. Add the ground beef and pork and fry until throughly browned.
 4. Add wine and cook until the liquid has evaporated.
 5. Decrease the heat to low and add the rest of the ingredients except for the milk.
-6. Let simmer for 3 hours, stirring occasionally.
+6. Let simmer for 2-3 hours, stirring occasionally.
 7. Add milk and let cool for a few minutes before serving. 
