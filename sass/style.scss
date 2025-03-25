@@ -1,14 +1,6 @@
 $latte-background: #eff1f5;
 $latte-text: #4c4f69;
-$latte-border: #ccd0da;
-
-
-$mocha-background: #1e1e2e;
-$mocha-text: #cdd6f4;
-$mocha-border: #6c7086;
-
-$accent1: #d20f39;
-$accent2: #40a02b;
+$latte-border: #1e66f5;
 
 :root {
   --font-family: monospace;
@@ -21,12 +13,12 @@ $accent2: #40a02b;
   /* Latte (light mode) colors */
   --background-color-light: #eff1f5;
   --text-color-light: #4c4f69;
-  --link-color-light: #d20f39;
+  --link-color-light: #1e66f5;
 
   /* Mocha (dark mode) colors */
-  --background-color-dark: #1e1e2e;
-  --text-color-dark: #cdd6f4;
-  --link-color-dark: #40a02b;
+  --background-color-dark: #eff1f5;
+  --text-color-dark: #4c4f69;
+  --link-color-dark: #1e66f5;
 }
 
 body {
