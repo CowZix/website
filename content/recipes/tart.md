@@ -2,7 +2,7 @@
 title = "Tarts"
 +++
 
-#Tarts
+# Tarts
 
 I started making tarts after being inspired by the YouTube channel [Chocolate Cocoa](https://www.youtube.com/@chocolate_cacao). So far I've tried 2 different fillings, the original chocolate ganashe and lemon curd. I personally like the choclate filling more but the lemon curd is just as good!
 
@@ -38,7 +38,7 @@ I started making tarts after being inspired by the YouTube channel [Chocolate Co
 ## Directions
 1. Chop the chocolate until relatively fine.
 2. Put honey and cream into a saucepan and wait until the cream barely starts to boil.
-3. Add chocolate adn stir until incorperated. 
+3. Add chocolate and stir until incorperated. 
 4. Add butter when temperature drops to around 100F.
 5. Once the butter has completely metled, pour it into the tart.
 
@@ -64,7 +64,7 @@ I started making tarts after being inspired by the YouTube channel [Chocolate Co
 - 2oz Unsalted Butter
 - 3g Gelatin Powder
 ## Directions
-1. Bloom gelatin in about 5g of water
+1. Bloom gelatin in about 5g of water.
 2. Zest the lemons and combine zest with sugar, eggs, and salt.
 3. Juice the lemons and add juice to the saucepan.
 4. Bring to low heat and stir constantly until the mixture begins to thicken.
