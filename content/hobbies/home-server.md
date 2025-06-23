@@ -8,6 +8,17 @@ title = "Personal Home Server"
 
 I run my home server on a Dell Optiplex courtesy of eBay. My hypervisor of choice is Proxmox.
 
+## Kubernetes
+The server currently has 3 nodes, 1 master node and 2 worker nodes. All the nodes are Debian VMs running on Proxmox. I am aware that most setups spread nodes across different machines, however I am just using my home server to learn Kubernetes. I am using MetalLB as a load balancer and reflector to manage secrets. 
+
+## Networking
+An Nginx and cert-manager stack is currently in progress. 
+
+
+<details>
+
+<summary>Old Configuration</summary>
+
 ## Docker
 
 One VM is entirely dedicated to Docker containers, which build out a majority of the my server. Portainer is used to easily manage and monitor all off my containers. Additionally I use Watchtower to automatically update containers on a daily basis.
@@ -31,4 +42,5 @@ In addition to PiHole DNS filtering and Traefik SSL certification, I also use Wa
 * Container Manager [Portainer](https://www.portainer.io/)
 * SIEM [Wazuh](https://wazuh.com/)
 
+</details>
 </details>
