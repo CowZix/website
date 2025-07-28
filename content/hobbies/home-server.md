@@ -17,8 +17,6 @@ My current server is housed in a small 10 in 4U server rack that fits snuggly un
 
 </details>
 
-## Software Stack
-
 ## Hypervisor
 I am running Proxmox as a bare-metal hypervisor to manage and administrate the Kubernetes Debian nodes. I am running a dedicated container for both piHole and tailscale for both accessing my server remotely and for DNS resolution and filtering.
 
@@ -30,7 +28,7 @@ An Nginx and cert-manager stack is currently in progress.
 
 <details>
 
-<summary>Sofrware Links</summary>
+<summary>Software Links</summary>
 
 * Hypervisor: [Proxmox](https://www.proxmox.com/en/)
 * VPN: [Tailscale](https://tailscale.com/)
