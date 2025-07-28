@@ -8,7 +8,7 @@ My friend Vaughn recomenened I make this but sent a more complex recipe that I c
 
 [Link to original recipe](https://cafedelites.com/beef-bourguignon/)
 
-**Prep time**: 5 mins **Cook time**: 2-3 hours
+**Prep time**: 10 mins **Cook time**: 3-4 hours
 ## Ingredients
 
 - 1 Tbs Olive Oil
@@ -34,6 +34,6 @@ My friend Vaughn recomenened I make this but sent a more complex recipe that I c
 3. Sear beef until browned on all sides then remove and set aside with the bacon.
 4. Fry chopped vegetables until onion is transparent.
 5. Return beef and bacon back to pan and sprinkle with flour.
-6. Add wine, stock, tomato paste, and herbs and bring to a simmer for 2-3 hours.
+6. Add wine, stock, tomato paste, and herbs and bring to a simmer for 3-4 hours.
 7. Melt butter in seperate pan then saute mushrooms in butter until lighly browned.
 8. Pour mushrooms and butter into the pot and let simmer before serving.

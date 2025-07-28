@@ -12,7 +12,7 @@ One of my favorite all time recpies that I always come back to. Ever since I had
 ## Ingredients
 
 - 1 Block Soft Tofu
-- 4 Oz Ground Pork/Shitake Mushrooms
+- 8 Oz Ground Beef/Pork/Shitake Mushrooms
 - 1 Tsp Ground Sichuan Peppercorn
 - 3 Minced Garlic Cloves
 - 1 Tsp of Ginger Paste or Minced Ginger

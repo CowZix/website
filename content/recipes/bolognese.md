@@ -4,7 +4,7 @@ title = "Bolognese"
 
 # Bolognese
 
-My mom used this recipe for Christmas dinner and I thought it was great! 
+My mom used this recipe for Christmas dinner and I thought it was great! I recomend serving with pappardelle and shreded parmesan.
 
 [Link to original recipe](https://anitalianinmykitchen.com/bolognese-sauce/)
 

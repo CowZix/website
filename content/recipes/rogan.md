@@ -4,7 +4,7 @@ title = "Rogan Josh"
 
 # Rogan Josh
 
-I used to work at an Indian resturant and Lamb Rogan Josh was my go-to meal after my shift. This recipe is adapted from a recipe I found online and uses beef as a substitute as lamb is harder to come by. While not as good as the resturant's, it is wonderfully spiced and full of savory flavor this is a go to recipe for the weekend. 
+I used to work at an Indian resturant and Lamb Rogan Josh was my go-to meal after my shift. This recipe is adapted from a recipe I found online and uses beef as a substitute as lamb is harder to come by. While admittedly not as good as the resturant's, it is wonderfully spiced and full of savory flavor this is a go to recipe for the weekend. 
 
 [Link to original recipe](https://daankutth.wordpress.com/2015/10/16/roganjosh/)
 
