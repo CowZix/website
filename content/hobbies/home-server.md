@@ -4,6 +4,8 @@ title = "Personal Home Server"
 
 # Home Server
 
+## [Github](https://github.com/CowZix/homelab)
+
 ## Hardware
 My current server is housed in a small 10 in 4U server rack that fits snuggly under my desk. Each component is housed in a 3D printed bracket. I unfortunately do not have access to the router in my current residence so I am leaving 1U unfilled for a potential router in the future. The current configuration has a 3D printed patch panel, switch, and compute node.
 
@@ -13,18 +15,19 @@ My current server is housed in a small 10 in 4U server rack that fits snuggly un
 
 * Rack: [Rackmate T0](https://deskpi.com/products/deskpi-rackmate-t1-rackmount-10-inch-4u-server-cabinet-for-network-servers-audio-and-video-equipment)
 * Switch: [Unifi Lite 8](https://store.ui.com/us/en/category/switching-utility/products/usw-lite-8-poe)
-* Compute Node: [Minisforum UN100](https://store.minisforum.com/products/minisforum-un100p)
+* Main Compute Node: [Optiplex 7050](https://www.dell.com/support/manuals/en-us/optiplex-7050-desktop/optiplex-7050-desktop-micro-owners-manual/physical-dimension-specifications?guid=guid-55fb5400-0b54-48e7-97c9-dbbf658c5bec&lang=en-us)
+* Worker Node: [Minisforum UN100](https://store.minisforum.com/products/minisforum-un100p)
 
 </details>
 
-## Hypervisor
-I am running Proxmox as a bare-metal hypervisor to manage and administrate the Kubernetes Debian nodes. I am running a dedicated container for both piHole and tailscale for both accessing my server remotely and for DNS resolution and filtering.
+## Main Compute Node
+I am running Proxmox on my main compute node as a general purpose hypervisor. There is a few utility LXC containers such as piHole for DNS and Tailscale to access my home network from anywhere. The Kubernetes Control Plane Node is also running in a dedicated VM.
 
-## Kubernetes
-The server currently has 3 nodes, 1 master node and 2 worker nodes. I am aware that most setups spread nodes across different machines, however I am just using my home server to learn Kubernetes. I am using MetalLB as a load balancer and reflector to manage secrets. 
+## Worker Node
+The Worker Node is running Debian natively and simply provides additional compute power to the cluster. 
 
-## Networking
-An Nginx and cert-manager stack is currently in progress. 
+## Kubernetes Services
+My main goal with this iteration of my homelab is to deepen my understanding of Kubernetes while adopting GitOps practices to manage my environment. With FluxCD, I can version-control my manifests in Git, making it simple to deploy and update services. This also ensures that if something goes wrong, I can quickly redeploy the entire stack from source. For networking, I’ve set up a straightforward stack using NGINX Ingress and cert-manager, which automatically provisions TLS certificates for each service. Additionally, I have Rancher running as a frontend to view the cluster graphically.
 
 <details>
 
@@ -34,6 +37,12 @@ An Nginx and cert-manager stack is currently in progress.
 * VPN: [Tailscale](https://tailscale.com/)
 * DNS: [PiHole](https://pi-hole.net/)
 * Cluster: [Kubernetes](https://kubernetes.io/)
+* Cluster Management[Rancher](https://www.rancher.com/)
+* GitOps: [FluxCD](https://fluxcd.io/)
+* Load Balancer[MetalLB](https://metallb.io/)
+* Ingress: [NGINX Ingress](https://github.com/kubernetes/ingress-nginx)
+* Certificates: [Cert Manager](https://cert-manager.io/)
+
 </details>
 
 <!---
