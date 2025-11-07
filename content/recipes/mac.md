@@ -4,7 +4,7 @@ title = "Mac N Cheese"
 
 # Mac N Cheese
 
-Nothing like Mac N Cheese for Confort Food. Modified version of J Kenji Lopez's recipe that makes for an easy midweek meal. Smoked gouda is definitely makes this 20x better.
+Nothing like Mac N Cheese for comfort Food. Modified version of J Kenji Lopez's recipe that makes for an easy midweek meal. Smoked gouda is definitely makes this 20x better.
 
 [Link to original recipe](https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe)
 

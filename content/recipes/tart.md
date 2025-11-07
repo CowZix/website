@@ -4,7 +4,7 @@ title = "Tarts"
 
 # Tarts
 
-I started making tarts after being inspired by the YouTube channel [Chocolate Cocoa](https://www.youtube.com/@chocolate_cacao). So far I've tried 2 different fillings, the original chocolate ganashe and lemon curd. I personally like the choclate filling more but the lemon curd is just as good!
+I started making tarts after being inspired by the YouTube channel [Chocolate Cocoa](https://www.youtube.com/@chocolate_cacao). So far I've tried 2 different fillings, the original chocolate ganashe and lemon curd. I personally like the chocolate filling more but the lemon curd is just as good!
 
 [Link to original recipe](https://www.youtube.com/watch?app=desktop&v=7TcCIcE1hr8&t=7s)
 
@@ -18,7 +18,7 @@ I started making tarts after being inspired by the YouTube channel [Chocolate Co
 - 30g Egg
 - 125g Cake Flour
 ## Directions
-1. Cream Butter with wisk then add sifted almond flour, powdered sugar, and salt.
+1. Cream Butter with whisk then add sifted almond flour, powdered sugar, and salt.
 2. Add egg and mix until homogenous. 
 3. Add sifted cake flour in about 2-3 portions. Mix with cutting motions until little dry flour remains.
 4. Wrap dough in plastic wrap and place in fridge for 8 hours.
@@ -38,11 +38,11 @@ I started making tarts after being inspired by the YouTube channel [Chocolate Co
 ## Directions
 1. Chop the chocolate until relatively fine.
 2. Put honey and cream into a saucepan and wait until the cream barely starts to boil.
-3. Add chocolate and stir until incorperated. 
+3. Add chocolate and stir until incorporated. 
 4. Add butter when temperature drops to around 100F.
-5. Once the butter has completely metled, pour it into the tart.
+5. Once the butter has completely melted, pour it into the tart.
 
-## Choclate Glaze Ingredients
+## Chocolate Glaze Ingredients
 - 30g Water
 - 35g Heavy Whipping Cream
 - 50g Granulated Sugar
@@ -53,7 +53,7 @@ I started making tarts after being inspired by the YouTube channel [Chocolate Co
 1. Mix sugar and cocoa powder until combined.
 2. Heat water and cream in a pan until barely boiling.
 3. Mix sugar and cocoa into boiling cream.
-4. Add gelatin and stir until incorperated, then strain into heatproof bowl.
+4. Add gelatin and stir until incorporated, then strain into heatproof bowl.
 5. Wait until the glaze reaches 90F then pour on the surface of the ganache.
 
 ## Lemon Curd Ingredients
@@ -69,4 +69,4 @@ I started making tarts after being inspired by the YouTube channel [Chocolate Co
 3. Juice the lemons and add juice to the saucepan.
 4. Bring to low heat and stir constantly until the mixture begins to thicken.
 5. Add butter and stir until completely melted.
-6. Add gelatin and stir until completely incorperated then pour into tart.
+6. Add gelatin and stir until completely incorporated then pour into tart.

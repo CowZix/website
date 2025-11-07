@@ -4,26 +4,26 @@ title = "Birria"
 
 # Birria
 
-After looking for another recipe to try to slow cook I tried this one on a whim. I was inspired to try making birria after remembering a delicious taco I had late at night stopping at a random taqueria. I think this may be my new favorite slow cooker recipe to date. The recipe cuts some of the ingredients I couldn't get from my local store. I enjoy brushing the broth over the tortilla before frying and topping with oaxaca cheese, avacado, onion, and crema mexicana. 
+After looking for another recipe to try to slow cook I tried this one on a whim. I was inspired to try making birria after remembering a delicious taco I had late at night stopping at a random taqueria. I think this may be my new favorite slow cooker recipe to date. The recipe cuts some of the ingredients I couldn't get from my local store. I enjoy brushing the broth over the tortilla before frying and topping with oaxaca cheese, avocado, onion, and crema mexicana. 
 
 [Link to original recipe](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004)
 
 **Prep time**: 30 mins **Cook time**: 3-4 hours
 
 ## Ingredients
-- 0.75 Tsps Black Peppercorns
-- 0.25 Tsp Cumin Seeds
+- 3/4 Tsps Black Peppercorns
+- 1/4 Tsp Cumin Seeds
 - 2 Cloves
 - 2 cups Chicken Broth
 - 1 Plum Tomato
-- 1.5 Guajillo Chiles
+- 1 1/2 Guajillo Chiles
 - 1 California Chile
-- 1.5 Árbol Chiles
+- 1 1/2 Árbol Chiles
 - 1 Tbs Gochujang
-- 2.5 Cloves Garlic
+- 2 1.2 Cloves Garlic
 - 2 Lbs Beef Chuck Roast
-- 0.5 Cups Water
-- 0.5 Yellow Onion
+- 1/2 Cups Water
+- 1/2 Yellow Onion
 - 2 whole bay leaves
 
 

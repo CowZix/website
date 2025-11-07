@@ -4,7 +4,7 @@ title = "Bolognese"
 
 # Bolognese
 
-My mom used this recipe for Christmas dinner and I thought it was great! I recomend serving with pappardelle and shreded parmesan.
+My mom used this recipe for Christmas dinner and I thought it was great! I recommend serving with pappardelle and shredded parmesan.
 
 [Link to original recipe](https://anitalianinmykitchen.com/bolognese-sauce/)
 
@@ -27,7 +27,7 @@ My mom used this recipe for Christmas dinner and I thought it was great! I recom
 
 1. Finely chop the the carrot, celery and onion.
 2. Fry chopped vegetables until onion is transparent.
-3. Add the ground beef and pork and fry until throughly browned.
+3. Add the ground beef and pork and fry until thoroughly browned.
 4. Add wine and cook until the liquid has evaporated.
 5. Decrease the heat to low and add the rest of the ingredients except for the milk.
 6. Let simmer for 2-3 hours, stirring occasionally.

@@ -4,7 +4,7 @@ title = "Mapo Tofu"
 
 # Mapo Tofu
 
-One of my favorite all time recpies that I always come back to. Ever since I had "Hot and Spicy Bean Curd" at our local Chinese resturant I knew that I had to make it someday. This recipe is adapted from Chinese Cooking Demystfied's amazing recipe.
+One of my favorite all time recipes that I always come back to. Ever since I had "Hot and Spicy Bean Curd" at our local Chinese restaurant I knew that I had to make it someday. This recipe is adapted from Chinese Cooking Demystified's amazing recipe.
 
 [Link to original recipe](https://www.youtube.com/watch?v=ZfsZwwrTFD4)
 
@@ -30,13 +30,13 @@ One of my favorite all time recpies that I always come back to. Ever since I had
 
 ## Directions
 
-1. Seperate green onions into greens and whites. Mince the whites and them add them to a bowl and slice greens and set aside for garnish.
+1. Separate green onions into greens and whites. Mince the whites and them add them to a bowl and slice greens and set aside for garnish.
 2. Cut tofu into bite sized cubes and set aside.
 3. Fry pork or shitake mushrooms until lightly browned.
-4. Fry doubanjiang in oil until the oil is stained a beautful red color and very fragrant.
+4. Fry doubanjiang in oil until the oil is stained a beautiful red color and very fragrant.
 5. Add garlic, garlic whites, and ginger and fry for about 30 seconds.
 6. Add soy sauce, stock, shaoxin, gochugaru, hot chili powder, and douchi and bring to a simmer.
 7. Add tofu to pan and let simmer, carefully flipping the tofu every 5 minutes.
 8. Let reduce until the sauce barely starts to thicken. 
-9. Mix equal parts cornstrach and water to form a slurry to further thicken the sauce. Mix the slurry in until the sauce thickens to about the consitency of a watery barbaque sauce. 
+9. Mix equal parts cornstrach and water to form a slurry to further thicken the sauce. Mix the slurry in until the sauce thickens to about the consistency of a watery barbecue sauce. 
 10. Remove from heat and serve garnished with onion greens and sesame oil.

@@ -4,36 +4,43 @@ title = "Rogan Josh"
 
 # Rogan Josh
 
-I used to work at an Indian resturant and Lamb Rogan Josh was my go-to meal after my shift. This recipe is adapted from a recipe I found online and uses beef as a substitute as lamb is harder to come by. While admittedly not as good as the resturant's, it is wonderfully spiced and full of savory flavor this is a go to recipe for the weekend. 
+I used to work at an Indian restaurant and Lamb Rogan Josh was my go-to meal after my shift. I previously had a different recipe on the website but I wasn't happy with how it turned out. I after looking through more recipes I found a "less authentic" recipe that is closer to a restaurant style that I prefer. There are a few additions that I think add a bit of flavor.
 
-[Link to original recipe](https://daankutth.wordpress.com/2015/10/16/roganjosh/)
+[Link to original recipe](https://beesbites.com.au/rogan-josh-recipe/)
 
-**Prep time**: 20 mins **Cook time**: 2-3 hours
+**Prep time**: 20 mins **Cook time**: 2 hours
 ## Ingredients
 
-- 1 Lbs Beef Stew Chunks
-- 6 Black Cardamom Pods
-- 4 Black Pepper Corns
-- 1-2 Bay Leaves
-- 1 Clove
+- 2 Lbs Beef Chuck Roast
+- 6 Green Cardamom Pods
+- 2 Bay Leaves
+- 5 Clove
 - 1/2 Tsp of Cinnamon Powder
-- 2 Tsp of Fennel Powder
-- 1.5 Tsp of Turmeric
-- 2 Tsp of Garam Masala
-- 1/2 Tbs of Kashmiri Red Chilli Powder or Gochugaru
-- 1/2 cup Stock
-- 4 Minced Garlic Cloves
+- 1 Tbs of Coriander Powder
+- 1 Tbs of Cumin Powder
+- 1 Tsp Red Pepper Powder
+- 1 Tsp of Garam Masala
+- 2 Tbs of Kashmiri Red Chilli 
+- 1 1/4 cup Stock
+- 6 Minced Garlic Cloves
 - 1 Onion Finely Chopped
-- 2 Tsp of Ginger Paste or Minced Ginger
+- 1 Tbs of Ginger Paste
 - 1 Cup Yogurt
-- 2 Tbs Olive Oil
+- 1 Tbs Tomato Paste
+- 2 Tbs Neutral Oil
+- 1 Tsp Anchovy Paste
+- 1 Tbs Soy Sauce
 
 ## Directions
 
 1. Cut beef into bite sized pieces and set aside. 
-2. Finely slice onion and add to oiled pot. Saute onions until translucent and just about to brown. 
-3. Add garlic and ginger and fry for about 30 seconds.
-4. Add all spices and let fry for another 30 seconds.
-5. Add yogurt, stock, and beef to the pot and bring to a boil.
-6. Reduce to a simmer then cover the pot and cook for 2-3 hours. Checking every 45 minutes to ensure it's cooking properly and nothing is burning. If the curry ends too dry, add water and stir until desired consitency is reached. 
-7. Remove bay leaves and serve.
+2. Mix cinnamon, coriander, red pepper, and kashmiri chili with water to create a paste.
+3. Finely slice onion and add to oiled pot. Saute onions until well browned. 
+4. Add garlic and ginger and fry for about 30 seconds.
+5. Add whole spices and tomato paste and let fry for about 30 seconds.
+6. Add spice paste and let fry for another 30 seconds. 
+6. Add stock, anchovy paste, soy sauce, and beef to the pot and bring to a boil.
+7. Reduce to a simmer then cover the pot and cook for 1 1/2 hours.
+8. Temper the yogurt by adding hot curry to a yogurt in a separate bowl while stirring vigorously. 
+9. Add tempered yogurt and garam masala and simmer for another 30 minutes.
+9. Remove bay leaves and cardamom pods and serve.
