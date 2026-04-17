@@ -22,6 +22,6 @@ Nothing like Mac N Cheese for comfort Food. Modified version of J Kenji Lopez's 
 
 1. Shred cheese with a grater and set aside.
 2. Add about 1/2 the water you would usually use to make pasta and your pasta of choice to a pan and let boil.
-3. Continue to let boil until the water has reduced almost completely. The remaining pasta water should have the conistency of a thin pasta sauce.
+3. Continue to let boil until the water has reduced almost completely. The remaining pasta water should have the consistency of a thin pasta sauce.
 4. Add the evaporated milk and stir until it reaches a simmer.
-5. Add the cheese and stir until incorperated completely.
+5. Add the cheese and stir until incorporated completely.

@@ -1,5 +1,5 @@
 +++
 title = "Recipes"
 +++
-# Recipies
+# Recipes
 Recipes that I like.

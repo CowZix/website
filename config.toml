@@ -10,8 +10,8 @@ taxonomies = [
     { name = "contexts" },
 ]
 
-[markdown]
-highlight_code = true
+#[markdown]
+#highlight_code = true
 
 [extra]
 author = "Ian Le"

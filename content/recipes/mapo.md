@@ -38,5 +38,5 @@ One of my favorite all time recipes that I always come back to. Ever since I had
 6. Add soy sauce, stock, shaoxin, gochugaru, hot chili powder, and douchi and bring to a simmer.
 7. Add tofu to pan and let simmer, carefully flipping the tofu every 5 minutes.
 8. Let reduce until the sauce barely starts to thicken. 
-9. Mix equal parts cornstrach and water to form a slurry to further thicken the sauce. Mix the slurry in until the sauce thickens to about the consistency of a watery barbecue sauce. 
+9. Mix equal parts cornstarch and water to form a slurry to further thicken the sauce. Mix the slurry in until the sauce thickens to about the consistency of a watery barbecue sauce. 
 10. Remove from heat and serve garnished with onion greens and sesame oil.
