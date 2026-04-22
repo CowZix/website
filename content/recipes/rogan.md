@@ -2,7 +2,6 @@
 title = "Rogan Josh"
 +++
 
-# Rogan Josh
 
 I used to work at an Indian restaurant and Lamb Rogan Josh was my go-to meal after my shift. I previously had a different recipe on the website but I wasn't happy with how it turned out. I after looking through more recipes I found a "less authentic" recipe that is closer to a restaurant style that I prefer. There are a few additions that I think add a bit of flavor.
 

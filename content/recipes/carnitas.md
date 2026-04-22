@@ -2,8 +2,6 @@
 title = "Carnitas"
 +++
 
-# Carnitas
-
 Recipe shamelessly stolen from my friend Vaughn. Tender and savory melt in your mouth pork that goes well with nearly everything. I usually make small tacos or just put it over rice for a great midweek meal. 
 
 [Link to original recipe](https://vaughn.sh/recipes/carnitas/)

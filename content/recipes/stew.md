@@ -2,7 +2,6 @@
 title = "Beef Stew"
 +++
 
-# Beef Stew
 
 My friend Vaughn recommended both this recipe and beef bourguignon. I prefer this recipe as it is a less wine forward and more beefy and rich. This recipe makes a delicious and incredibly hearty stew that I personally enjoy served over white rice. 
 

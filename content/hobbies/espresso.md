@@ -1,10 +1,10 @@
 +++
 title = "Espresso"
+[extra]
+model = "/models/Coffee.glb"
 +++
 
-# Espresso
-
-I really like coffee, especially espresso. Personally I'm partial to cortados, which are equal parts espresso and steamed milk.
+I really like coffee, especially espresso. Personally I'm partial to cortados, which are equal parts espresso and steamed milk. 
 
 ## Workflow
 

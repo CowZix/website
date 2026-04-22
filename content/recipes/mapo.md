@@ -2,7 +2,6 @@
 title = "Mapo Tofu"
 +++
 
-# Mapo Tofu
 
 One of my favorite all time recipes that I always come back to. Ever since I had "Hot and Spicy Bean Curd" at our local Chinese restaurant I knew that I had to make it someday. This recipe is adapted from Chinese Cooking Demystified's amazing recipe.
 

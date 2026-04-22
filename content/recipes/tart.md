@@ -2,7 +2,6 @@
 title = "Tarts"
 +++
 
-# Tarts
 
 I started making tarts after being inspired by the YouTube channel [Chocolate Cocoa](https://www.youtube.com/@chocolate_cacao). So far I've tried 2 different fillings, the original chocolate ganashe and lemon curd. I personally like the chocolate filling more but the lemon curd is just as good!
 

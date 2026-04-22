@@ -2,9 +2,6 @@
 title = "Personal Home Server"
 +++
 
-# Home Server
-
-## [Github](https://github.com/CowZix/homelab)
 
 ## Hardware
 My current server is housed in a small 10 in 4U server rack that fits snuggly under my desk. Each component is housed in a 3D printed bracket. The current configuration has a 3D printed patch panel, switch, and compute node.

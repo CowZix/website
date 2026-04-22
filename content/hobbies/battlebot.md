@@ -2,7 +2,6 @@
 title = "Antweight Battlebot"
 +++
 
-# BattleBot
 
 Inspired by countless hours of watching Battlebots on Youtube, I decided to put my design skills to the test and create an ant-weight Battlebot using Autodesk Fusion 360. I have no idea if it will work, as I currently do not have enough time to create/compete with it.
 

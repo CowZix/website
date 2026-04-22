@@ -1,4 +1,4 @@
-base_url = "https://onmyputer.com"
+base_url = "https://Onmyputer.com"
 title = "Onmyputer"
 description = "Ian Le's Personal Page"
 
@@ -15,12 +15,14 @@ taxonomies = [
 
 [extra]
 author = "Ian Le"
+model = ""
 logo = "images/logo.png"
 header_nav = [
-    { name = "~Home", url = "/" },
-    { name = "#Projects", url = "/projects" },
-    { name = "$Hobbies", url = "/hobbies" },
-    { name = "+Recipes", url = "/recipes" },
+    { name = "Home", url = "/" },
+    { name = "Projects", url = "/projects" },
+    { name = "Hobbies", url = "/hobbies" },
+    { name = "Recipes", url = "/recipes" },
+    { name = "Friends", url = "https://sbcord.com" },
 #    { name = "!Resume", url = "" },
 #    { name = "?about", url = "/about" },
 ]

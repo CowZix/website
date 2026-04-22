@@ -2,7 +2,6 @@
 title = "Korean Chicken"
 +++
 
-# Korean Chicken
 
 Easy Korean style chicken to quickly make for a quick meal. Spicy, savory and full of gochujang flavor.
 

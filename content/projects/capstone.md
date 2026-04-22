@@ -2,7 +2,6 @@
 title = "Computer Engineering Capstone Project"
 +++
 
-# ECE 4440 Embedded System Design
 
 ## Overview
 
