@@ -139,21 +139,6 @@
 
 <body theme="auto">
     <div class="flex-container">
-        {% if model %}
-        <div class="sidebar-content">
-            <div class="window">
-                <div class="title-bar">
-                    <h1 class="title">Viewport</h1>
-                </div>
-                <div class="separator"></div>
-                <div class="window-pane">
-                    <div id="model" data-model="{{model | safe}}">
-                    <script type="module" src="js/model-viewer.js"></script>
-                    </div>
-                </div>
-                {% endif %}
-            </div>
-        </div>
         <div class="main-content">
             <div class="window">
                 <div class="title-bar">
@@ -169,6 +154,22 @@
                 </div>
             </div>
         </div>
+        {% if model %}
+        <div class="sidebar-content">
+            <div class="window">
+                <div class="title-bar">
+                    <h1 class="title">Viewport</h1>
+                </div>
+                <div class="separator"></div>
+                <div class="window-pane">
+                    <div id="model" data-model="{{model | safe}}">
+                    <script type="module" src="/js/model-viewer.js"></script>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        {% endif %}
     </div>
 </body>
 
