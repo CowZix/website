@@ -1,5 +1,7 @@
 +++
 title = "Birria"
+[extra]
+model = "/models/Taco.glb"
 +++
 
 After looking for another recipe to try to slow cook I tried this one on a whim. I was inspired to try making birria after remembering a delicious taco I had late at night stopping at a random taqueria. I think this may be my new favorite slow cooker recipe to date. The recipe cuts some of the ingredients I couldn't get from my local store. I enjoy brushing the broth over the tortilla before frying and topping with oaxaca cheese, avocado, onion, and crema mexicana. 

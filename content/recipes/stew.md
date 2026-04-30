@@ -38,6 +38,6 @@ My friend Vaughn recommended both this recipe and beef bourguignon. I prefer thi
 5. Add whole garlic cloves, carrot, celery, and halved onion and fry until well browned.
 6. Deglaze the pan with wine then add stock mixture and bring the mixture to a simmer. 
 7. Cut beef into bite sized pieces and toss with flour before adding back to the pot.
-8. Add thyme and bay leaves and let simmer for 1 1/2 hours.
+8. Add thyme and bay leaves and place into 300F oven for 1.5 hours.
 9. Remove whole onion, carrot, garlic cloves, bay leaves before adding the reserved carrot, mushroom, and potatoes.
-10. Let simmer for an additional hour before serving. 
+10. Put stew back into the oven for another hour before serving.
