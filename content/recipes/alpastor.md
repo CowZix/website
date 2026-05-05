@@ -4,9 +4,9 @@ title = "Tacos al Pastor"
 model = "/models/Taco.glb"
 +++
 
-After looking for another recipe to try to slow cook I tried this one on a whim. I was inspired to try making birria after remembering a delicious taco I had late at night stopping at a random taqueria. I think this may be my new favorite slow cooker recipe to date. The recipe cuts some of the ingredients I couldn't get from my local store. I enjoy brushing the broth over the tortilla before frying and topping with oaxaca cheese, avocado, onion, and crema mexicana. 
+This is now one of my favorite recipes and a super easy way to get juicy kebab like meat without having an actual kebab machine. Just like the birria this recipe was inspired after a taco craving. 
 
-[Link to original recipe](https://www.seriouseats.com/birria-de-res-beef-birria-recipe-8362004)
+[Link to original recipe](https://www.seriouseats.com/tacos-al-pastor-recipe)
 
 **Prep time**: 4 hours **Cook time**: 3-4 hours
 
@@ -23,7 +23,7 @@ After looking for another recipe to try to slow cook I tried this one on a whim.
 - 2 Tsps Sugar
 - 3 Tsp Garlic
 - 2 Pounds Pork Sirloin
-- 10 Bacon Slices
+- 8 Bacon Slices
 
 ## Directions
 1. Combine all ingredients except for the sirloin and bacon slices and blend into a marinade.
