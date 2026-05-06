@@ -4,7 +4,7 @@ title = "Tacos al Pastor"
 model = "/models/Taco.glb"
 +++
 
-This is now one of my favorite recipes and a super easy way to get juicy kebab like meat without having an actual kebab machine. Just like the birria this recipe was inspired after a taco craving. 
+This is now one of my favorite recipes and a super easy way to get juicy kebab like meat without having an actual kebab machine. Just like the birria this recipe was inspired after a taco craving. Oaxaca cheese, crispy onion, and this meat in a quesadilla is so good.
 
 [Link to original recipe](https://www.seriouseats.com/tacos-al-pastor-recipe)
 
