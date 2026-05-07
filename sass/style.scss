@@ -140,8 +140,8 @@ webkit-scrollbar-button {
 body {
 	margin: 0;
 	padding: 0;
-	background: linear-gradient(90deg, var(--primary) 4px, transparent 1%) center, linear-gradient(var(--primary) 4px, transparent 1%) center, var(--secondary);
-	background-size: 6px 6px;
+	background: linear-gradient(90deg, var(--primary) 6px, transparent 1%) center, linear-gradient(var(--primary) 6px, transparent 1%) center, var(--secondary);
+	background-size: 8px 8px;
 	background-attachment: fixed;
 }
 a {
@@ -170,6 +170,7 @@ h2 {
 
 .flex-container {
   display: flex;
+  gap: 1rem;
 
   .sidebar-content {
     flex: 0 0 10%;
@@ -177,6 +178,16 @@ h2 {
 
   .main-content {
     flex: 1;
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column-reverse;
+
+    .sidebar-content,
+    .main-content {
+      flex: 1 1 100%;
+      width: 100%;
+    }
   }
 }
 

@@ -1,5 +1,7 @@
 +++
 title = "Tarts"
+[extra]
+model = "/models/Tart.glb"
 +++
 
 
